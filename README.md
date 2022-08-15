@@ -1,23 +1,19 @@
 # How to play
-The basic idea of the game is quite simple: You are the mayor of a city and decide what to build. First you should provide power and water, e.g. by placing solar panels and water towers somewhere in your city. After that, declare zones for residential, commercial and industrial buildings. Provide power and water from your sources to the zones by using wires and pipes. Once everything is setup and connected with roads people will move into your city automatically. You can make them happy by building parks, sport facilities etc. If you provide education they will eventually level up and build better houses. They will then also pay more taxes which you can use to extent your city even further. Be cautious to not place dirty buildings near to residential areas, they might not like it or even become ill. Speaking of illness, eventually you will have to take care of fires by building fire departments, take care of crimes by building police stations and take care of health by building hospitals. Not to mention potential traffic issues you may run into if you forget to update your road system to increased demand. There's so much to do :mine
+The basic idea of the game is quite simple: You are the mayor of a city and decide what to build. First you should provide power and water, e.g. by placing solar panels and water towers somewhere in your city. After that, declare zones for residential, commercial and industrial buildings. Provide power and water from your sources to the zones by using wires and pipes. Once everything is setup and connected with roads people will move into your city automatically. You can make them happy by building parks, sport facilities etc. If you provide education they will eventually level up and build better houses. They will then also pay more taxes which you can use to extent your city even further. Be cautious to not place dirty buildings near to residential areas, they might not like it or even become ill. Speaking of illness, eventually you will have to take care of fires by building fire departments, take care of crimes by building police stations and take care of health by building hospitals. Not to mention potential traffic issues you may run into if you forget to update your road system to increased demand. There's so much to do.
 
 # Plugins
 ## What are plugins?
 In general, plugins are extensions for the game that can be downloaded from the Plugin Store (within the game) or from external sources. Plugins can contain a large variety of content. Most plugins add new buildings to the game.
 
-
 ## Can I create a plugin on my own?
-Yes, you can! And it might be even easier than you think. What you basically need are tools to 1. write text files (in so called json format) and to 2. create graphics that go along with them. You are free to do that directly on your device or on a PC. See the getting started topic to get an overview on all the things you can do and how. After you've made a plugin you can publish it in our plugin showcase or in the Plugin Store. The latter one will reward you with diamonds for each download that your plugin gets, but there are quality requirements your plugins has to met first. In any case you will need to register in our forum to publish your own plugins.
+Yes, you can! And it might be even easier than you think. What you basically need are tools to 1. write text files (in so called json format) and to 2. create graphics that go along with them. You are free to do that directly on your device or on a PC. See [here](https://forum.theotown.com/viewtopic.php?f=41&t=2965) to get an overview on all the things you can do and how. After you've made a plugin you can publish it in our [plugin showcase](https://forum.theotown.com/viewforum.php?f=43) or in the [Plugin Store](https://forum.theotown.com/plugins/list). The latter one will reward you with diamonds for each download that your plugin gets, but there are quality requirements your plugins has to met first. In any case you will need to register in our forum to publish your own plugins.
 
 # Content
 ## Can I create my own region?
 Yes, since version 1.8.40 the game contains a region creator that allows you to generate your own regions within the game.
 
-
 ## Can I put my own music into the game?
-Yes, you can! The game will play the music placed into the TheoTown/music folder. See the tutorial on how to use your own music to learn more about that.
-
-
+Yes, you can! The game will play the music placed into the TheoTown/music folder. See [the tutorial on how to use your own music](https://forum.theotown.com/viewtopic.php?f=35&t=6061) to learn more about that.
 
 # Device transfer
 ## I switched my device, how can I transfer my cities to the new one?
@@ -26,14 +22,12 @@ You have to move the files from your old to your new device manually. You can do
 ## I switched my device, how can I transfer purchases/diamonds?
 Google manages one-time purchases that include real money. So these will automatically be available on your new device if you've logged into the same Google account there.
 
-For other items (except plugins) it is sufficient to connect to Google Games (Android only). That way you can also collect Achievements and can participate in the public leaderboards. On desktop you can get achievements if you are connected to Steam. However, to also synchronize plugins and use online mode you have to login into a forum account. For that you have to make an account first. After that, you can go into the game, open the game menu, tap on account and enter your details.
+For other items (except plugins) it is sufficient to connect to Google Games (Android only). That way you can also collect Achievements and can participate in the public leaderboards. On desktop you can get achievements if you are connected to Steam. However, to also synchronize plugins and use online mode you have to login into a forum account. For that you have to [make an account](https://forum.theotown.com/ucp.php?mode=register) first. After that, you can go into the game, open the game menu, tap on account and enter your details.
 
 # Misc
 ## Is there a version for PC or iOS?
-You'll find the version for iOS here.
-The version for PC can be found on Steam and Discord (the latter one is deprecated as it is rarely used).
-
-
+You'll find the [version for iOS here](https://itunes.apple.com/us/app/theotown/id1459639864?l=de&ls=1&mt=8).
+The version for PC can be [found on Steam](https://store.steampowered.com/app/1084020/TheoTown/) and [Discord](https://discord.gg/VPKXKUD) (the latter one is deprecated as it is rarely used).
 
 ## Running the game on PC/Mac OS/Linux
 In case you have trouble running the game please try to install Java manually
@@ -52,13 +46,15 @@ want to enable DPI compatibility mode by windows for TheoTown.exe
 dependent on OS and language.
 
 ## On Android, the game claims that it was hacked. What can I do?
-Please consider to get the original version from the Play Store. If you, for some reason, cannot do that you can acquire the latest official apk from here.
+Please consider to get the original version from the [Play Store](https://play.google.com/store/apps/details?id=info.flowersoft.theotown.theotown). If you, for some reason, cannot do that you can acquire [the latest official apk from here](https://github.com/LobbyDivinus/theotown-translation/blob/master/android-playstore-release.apk).
 
 ## How to delete the game?
-We're sorry to hear that you want to remove the game from your device. You can uninstall the app directly in the Store that you used to download it. Additionally, in order to delete city data, you may want to remove the TheoTown folder. It's location of this folder is dependent on the platform that you are using:
+We're sorry to hear that you want to remove the game from your device. You can uninstall the app directly in the Store that you used to download it. Additionally, in order to delete city data, regions, plugins, etc., you may want to remove the TheoTown folder. It's location of this folder is dependent on the platform that you are using:
 - Windows: In C:\Users\Your username\
 - Linux/Mac: In /home
-- Android: The data will be removed automatically when removing the app, unless you select to retain it upon uninstall (this feature is not available on all versions of Android)
+- Android: In /storage/emulated/0/android/data/info.flowersoft.theotown.theotown/files
+	- You can access this using Google's file explorer or ingame file manager
+	- The data will be removed automatically when removing the app, unless you select to retain it upon uninstall (this feature is only available on android 10 and above)
 - iOS: The data will be removed automatically when removing the app
 
-In case your question wasn't answered edit the file README.md and open a pull request.
+In case your question wasn't answered [edit the file README.md and open a pull request](https://github.com/TA874/Unofficial-TheoTown-FAQ/edit/main/README.md).
